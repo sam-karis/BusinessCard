@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="bs_name">Vegas Meals</string>
+    <string name="description">We are a hospitality organisation located in Nakuru Town.
+        \nWe deliver food ordered at your door. </string>
+    <string name="services_offered">Meals Offered</string>
+    <string name="first_meal">BreakFast</string>
+    <string name="second_meal">Lunch</string>
+    <string name="third_meal">Special</string>
+    <string name="first_meal_time">15 Minutes</string>
+    <string name="second_meal_time">30 Minutes</string>
+    <string name="third_meal_time">One hour</string>
+    <string name="contact_title">Contacts</string>
+    <string name="contact_email">vegasfood@gmail.com</string>
+    <string name="contact_phone_number">0750500500</string>
+</resources>
